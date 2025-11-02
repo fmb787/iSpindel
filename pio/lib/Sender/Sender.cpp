@@ -18,7 +18,7 @@
 #include <WiFiClientSecureBearSSL.h>
 
 #define UBISERVER "industrial.api.ubidots.com"
-#define BLYNKSERVER "blynk-cloud.com"
+#define BLYNKSERVER "192.168.8.120"
 #define CONNTIMEOUT 2000
 #define TIMECHECK 172800
 
